@@ -1,4 +1,5 @@
 def adder(a,b):
-    return a+b
+    print(a+b)
+    return
 
-print(adder(11,23))
+adder(11,23)
